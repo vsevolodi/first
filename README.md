@@ -1,2 +1,1 @@
-#programming course Python
-something trashy
+# Курс по програмированию python
